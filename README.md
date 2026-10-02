@@ -11,6 +11,7 @@ https://github.com/iamhiteshmali/QuickCart-Grocery-Delivery-Web-Application
 
 **Live Website:**  
 https://quickcart.hiteshmali.in
+https://quick-cart-grocery-delivery-web-app-ten.vercel.app/
 
 ---
 
