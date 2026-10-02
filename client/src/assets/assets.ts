@@ -74,21 +74,21 @@ export const footerData = {
             title: "Customer Service",
             links: [
                 { label: "My Account", to: "#" },
-                { label: "Order History", to: "#" },
-                { label: "Addresses", to: "#" },
+                { label: "Order History", to: "/orders" },
+                { label: "Addresses", to: "/addresses" },
                 { label: "Help Center", href: "#" },
             ],
         },
     ],
 
     contact: [
-        { icon: MapPinIcon, text: "123 Green Valley Rd, Portland" },
-        { icon: PhoneIcon, text: "+1 (111) 123-4567" },
-        { icon: MailIcon, text: "hello@example.com" },
+        { icon: MapPinIcon, text: "Parul University, Vadodara" },
+        { icon: PhoneIcon, text: "+91 12345-67890" },
+        { icon: MailIcon, text: "hello@quickcart.com" },
     ],
 
     bottom: {
-        copyright: "© 2026 Greatstack. All rights reserved.",
+        copyright: "© 2026 Quickcart All rights reserved.",
         links: [
             { label: "Privacy Policy", href: "#" },
             { label: "Terms of Service", href: "#" },
