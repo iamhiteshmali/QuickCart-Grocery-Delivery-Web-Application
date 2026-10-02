@@ -137,7 +137,7 @@ export default function AdminProductForm() {
                                 </select>
                             </div>
                             <div>
-                                <label className="block text-sm font-medium text-zinc-700 mb-2">Price ($)</label>
+                                <label className="block text-sm font-medium text-zinc-700 mb-2">Price (₹)</label>
                                 <input
                                     required
                                     type="number"
@@ -149,7 +149,7 @@ export default function AdminProductForm() {
                                 />
                             </div>
                             <div>
-                                <label className="block text-sm font-medium text-zinc-700 mb-2">Original Price ($) - Optional</label>
+                                <label className="block text-sm font-medium text-zinc-700 mb-2">Original Price (₹) - Optional</label>
                                 <input
                                     type="number"
                                     step="0.01"
